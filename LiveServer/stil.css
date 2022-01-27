@@ -98,6 +98,7 @@
             .divPrikazAviona {
                 display: flex;
                 flex-direction: column;
+                /*  flex: 1 0 auto;*/
                 border-radius: 6px;
                 background-color: hsl(199, 100%, 96%);
                 width: 200px;
