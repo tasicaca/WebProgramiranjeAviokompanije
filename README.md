@@ -1,1 +1,2 @@
-# WebProjekatAviokompanije
+# Web programiranje
+Projekat Aviokompanije
