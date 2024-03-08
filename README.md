@@ -1,5 +1,4 @@
-# Web programiranje
-Projekat Aviokompanije, korišćenjem JavaScripta, .NET-a i platforme Azure
+Projekat za praćenje aktivnosti Aviokompanije, korišćenjem JavaScripta, .NET-a i platforme Azure
 
 Projekat predstavlja aplikaciju za pracenje saobraćaja razlicitih aerodroma. 
 Moguce je imati vise instanci aviokompanija koje koriste aerodrom kao svoje sediste. 
